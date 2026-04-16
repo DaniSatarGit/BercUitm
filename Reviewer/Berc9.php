@@ -264,7 +264,7 @@
             .container {
                 padding: 20px;
             }
-        
+        }
     </style>
 </head>
 <body>
