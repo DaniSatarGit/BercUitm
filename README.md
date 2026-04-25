@@ -1,4 +1,4 @@
-# 🍪 BercUITM – Reviewer Management System
+# BercUITM – Reviewer Management System
 
 A web-based reviewer management system built using PHP & MySQL for ethical application review tracking and management.
 
